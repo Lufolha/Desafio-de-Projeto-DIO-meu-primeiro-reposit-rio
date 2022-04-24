@@ -6,6 +6,4 @@ Criação do meu primeiro repositório para o **Desafio de Projeto** da DIO no B
 ##### Links Úteis
 [DIO](https://www.dio.me/)
 
-[Bootcamp Carrefour Web Developer](https://web.dio.me/track/carrefour-web-developer)
-
 [LinkedIn Luisa Folharini](https://www.linkedin.com/in/luisafolharini/)

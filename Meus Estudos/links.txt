@@ -1,1 +1,18 @@
-https://www.markdownguide.org/ guia Markdown
+- STUDIO CODE: https://studio.code.org/courses
+- PROPROFS BRAIN GAMES: https://www.proprofsgames.com/
+- RACHACUCA: https://rachacuca.com.br/
+
+- FLOWGORITHM: http://www.flowgorithm.org/
+- PORTUGOL: https://github.com/UNIVALI-LITE/Portugol-Studio/releases
+- VISUAL STUDIO CODE: https://code.visualstudio.com/download
+
+- MARKDOWN GUIDE: https://www.markdownguide.org/
+- MDN WEB DOCS: https://developer.mozilla.org/pt-BR/
+- OWL CAROUSEL: https://owlcarousel2.github.io/OwlCarousel2/
+
+- HTML COLOR CODES: https://htmlcolorcodes.com/
+- FREE IMG: https://unsplash.com/
+- FREE IMG: https://www.pexels.com/pt-br/
+- TINY PNG: https://tinypng.com/
+- FONTS: https://fonts.google.com/
+- FONT AWESOME: https://fontawesome.com/
